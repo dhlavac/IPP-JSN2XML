@@ -1,0 +1,32 @@
+{	"colors": 
+	[
+		{
+			"color" : "r<e>d",
+			"value": "#f00"
+		},
+		{
+			"color": "g<r>een",
+			"value": "#0f0"
+		},
+		{
+			"color": "b<l>ue",
+			"value": "#00f"
+		},
+		{
+			"color": "c<y>an",
+			"value": "#0ff"
+		},
+		{
+			"color": "m<a>genta",
+			"value": "#f0f"
+		},
+		{
+			"color": "y<e>llow",
+			"value": "#ff0"
+		},
+		{
+			"color": "b<l>ack",
+			"value": "#000"
+		}
+	]
+}
