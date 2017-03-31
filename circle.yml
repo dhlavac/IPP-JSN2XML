@@ -1,5 +1,5 @@
 test:
   override:
     - zip xhlava42-JSN.zip jsn.php JSN-doc.pdf
-    - ./is_it_ok.sh xhlava42-JSN.zip test_folder
-    - cd test_folder && php test.php
+    - ./is_it_ok.sh xhlava42-JSN.zip tmp
+    - cd tests && php test.php
